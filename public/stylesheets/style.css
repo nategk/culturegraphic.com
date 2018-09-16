@@ -145,4 +145,8 @@ table.work tr:last-child td.year:before {
   content: none;
   border: 0; }
 
+@media screen and (max-width: 721px) {
+  table.work tr td ul li.description {
+    display: none; } }
+
 /*# sourceMappingURL=style.css.map */
