@@ -10,6 +10,10 @@
   font-weight: bold;
   font-style: normal; }
 
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
 html, body {
   width: 100%;
   height: 100%; }
@@ -27,7 +31,8 @@ p, li {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'swedensans', Helvetica, Arial, sans-serif;
   line-height: 1em;
-  margin: 2em 0 1em; }
+  margin: 2em 0 1em;
+  color: #094373; }
 
 h2, h3, h4 {
   font-weight: normal; }
@@ -62,7 +67,7 @@ a {
 hr {
   margin: 1em 0;
   border: 0;
-  border-top: 1px #c3cbd4 solid; }
+  border-top: 1px #c7daed solid; }
 
 ul {
   padding-left: 0; }
@@ -128,7 +133,7 @@ table.work tr td.year {
   position: relative;
   text-align: center; }
   table.work tr td.year:before {
-    border-right: 1px solid #c3cbd4;
+    border-right: 1px solid #c7daed;
     content: '';
     margin: 0 auto;
     position: absolute;

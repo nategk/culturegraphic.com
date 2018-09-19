@@ -12,6 +12,10 @@
   font-weight: bold
   font-style: normal
 
+*
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
 // Vars
 
 $min-width: 320px
@@ -19,17 +23,11 @@ $max-width: 720px
 $intro-max-height: 420px
 $desktop: 721px
 $font-color: #4B4F56
+$font-color-hilight: #094373
 $font-color-light: #8a8f96
-$accent-color: #c3cbd4
+$line-color: #c7daed
 
 // Base elements
-
-// *
-// 	vertical-align: baseline
-// 	border: 0 none
-// 	outline: 0
-// 	padding: 0
-// 	margin: 0
 
 html, body
   width: 100%
@@ -50,6 +48,7 @@ h1, h2, h3, h4, h5, h6
   font-family: 'swedensans', Helvetica, Arial, sans-serif
   line-height: 1em
   margin: 2em 0 1em
+  color: $font-color-hilight
 h2, h3, h4
   font-weight: normal
 h1
@@ -74,7 +73,7 @@ a
 hr
   margin: 1em 0
   border: 0
-  border-top: 1px $accent-color solid
+  border-top: 1px $line-color solid
 
 ul
   padding-left: 0
@@ -148,7 +147,7 @@ table.work
       position: relative
       text-align: center
       &:before
-        border-right: 1px solid $accent-color
+        border-right: 1px solid $line-color
         content: ''
         margin: 0 auto
         position: absolute
