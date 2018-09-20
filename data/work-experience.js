@@ -5,14 +5,14 @@ var workExperience = [
     "organization": "Facebook",
     "role": "Product Design Manager, Social Good",
     "location": "Menlo Park, California",
-    "description": "Partner with product leadership to identify and define opportunities for social good within the Facebook platform. Support product teams executing against those opportunities."
+    "description": "Partner with product leadership to identify and define opportunities for social good within the Facebook family of apps. Support product designers executing against those opportunities."
   },
   {
     "year": "2016+",
     "organization": "California College of the Arts",
     "role": "Adjunct Professor",
     "location": "San Francisco, California",
-    "description": "Interaction Design studio course on Design for Civic Engagement. Co-teach with fellow Obamaalum Scott Thomas."
+    "description": "Interaction Design studio course on Design for Civic Engagement. Co-teach with fellow Obama alum Scott Thomas."
   },
   {
     "year": 2012,
