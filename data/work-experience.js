@@ -5,7 +5,7 @@ var workExperience = [
     "organization": "Facebook",
     "role": "Product Design Manager, Social Good",
     "location": "Menlo Park, California",
-    "description": "Partner with product leadership to identify and define opportunities for social good within theFacebook platform. Support product teams executing against those opportunities."
+    "description": "Partner with product leadership to identify and define opportunities for social good within the Facebook platform. Support product teams executing against those opportunities."
   },
   {
     "year": "2016+",
@@ -40,7 +40,7 @@ var workExperience = [
     "organization": "Institute for Policy Studies",
     "role": "Online Communications Director",
     "location": "Washington, DC",
-    "description": "For the nation's oldest progressive think-tank, participated in strategy and development andled design for IPS websites, project sites and campaigns. Managed contractors and interns.Began IPS’ \"Unconventional Wisdom,\" news from the Institute to upwards of fifteen thousandactive constituents."
+    "description": "For the nation's oldest progressive think-tank, participated in strategy and development andled design for IPS websites, project sites and campaigns. Managed contractors and interns. Began IPS’ \"Unconventional Wisdom,\" news from the Institute to upwards of fifteen thousandactive constituents."
   },
   {
     "year": "2003+",
