@@ -1,12 +1,12 @@
 extends layout
 
 append head
-  title #{error.status} · #{message}
+  title #{message} #{error.status}
 
 block content
   section.error
     p
-      strong #{error.status} · #{message} at #{path}
+      strong #{message} at #{path}
       br
       = "Rendering culturegraphic.com instead"
     pre #{error.stack}
