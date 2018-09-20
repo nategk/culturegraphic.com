@@ -1,6 +1,13 @@
 extends layout
 
+append head
+  title #{error.status} · #{message}
+
 block content
-  h1= message
-  h2= error.status
-  pre #{error.stack}
+  section.error
+    p
+      strong #{error.status} · #{message} at #{path}
+      br
+      = "Rendering culturegraphic.com instead"
+    pre #{error.stack}
+  include index
