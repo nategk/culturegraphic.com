@@ -88,6 +88,9 @@ section {
 .content {
   margin: 1em; }
 
+.error {
+  color: #094373; }
+
 header {
   background-color: #c7daed;
   background-image: url("../images/nate-kerksick.jpg");
