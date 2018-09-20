@@ -37,7 +37,7 @@ app.use('/', indexRouter);
 app.get('/about', (req, res, next) => {
     res.redirect(301, '/');
 });
-app.get('/projects/*', (req, res, next) => {
+app.get('/project/*', (req, res, next) => {
     res.redirect(301, '/');
 });
 
