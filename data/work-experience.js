@@ -5,7 +5,7 @@ var workExperience = [
     "organization": "Facebook",
     "role": "Product Design Manager, Social Good",
     "location": "Menlo Park, California",
-    "description": "Partner with product leadership to identify and define opportunities for social good within the Facebook family of apps. Support product designers executing against those opportunities."
+    "description": "Design lead supporting design managers and product designers across five impact-focusedteams: Charitable Giving, Health, Mentorship & Support, Crisis Response, and Civic Action.Partner with product leadership to identify and define opportunities for social good across theFacebook family of apps."
   },
   {
     "year": "2016+",
