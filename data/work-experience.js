@@ -1,11 +1,18 @@
 // work-experience.js
 var workExperience = [
   {
-    "year": "2016+",
+    "year": "2019+",
+    "organization": "Dropbox",
+    "role": "Design Director, Smart Workspace",
+    "location": "San Francisco, California",
+    "description": "Lead design for Dropbox’s Smart Workspace, keeping teams in sync with Dropbox. Support people & strategy across teams advancing this vision."
+  },
+  {
+    "year": "2016",
     "organization": "Facebook",
     "role": "Product Design Manager, Social Good",
     "location": "Menlo Park, California",
-    "description": "Design lead supporting design managers and product designers across five impact-focusedteams: Charitable Giving, Health, Mentorship & Support, Crisis Response, and Civic Action.Partner with product leadership to identify and define opportunities for social good across theFacebook family of apps."
+    "description": "Lead design managers and product designers across five impact-focused teams: Charitable Giving, Health, Mentorship &amp; Support, Crisis Response, and Civic Action. Partnered with product leadership to identify and define opportunities for impact across Facebook family of apps."
   },
   {
     "year": "2016+",
