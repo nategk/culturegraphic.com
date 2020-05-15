@@ -12,14 +12,14 @@ var workExperience = [
     "organization": "Facebook",
     "role": "Product Design Manager, Social Good",
     "location": "Menlo Park, California",
-    "description": "Lead design managers and product designers across five impact-focused teams: Charitable Giving, Health, Mentorship &amp; Support, Crisis Response, and Civic Action. Partnered with product leadership to identify and define opportunities for impact across Facebook family of apps."
+    "description": "Led design managers and product designers across five impact-focused teams: Charitable Giving, Health, Mentorship &amp; Support, Crisis Response, and Civic Action. Partnered with product leadership to identify and define opportunities for impact across Facebook family of apps."
   },
   {
-    "year": "2016+",
+    "year": "2016",
     "organization": "California College of the Arts",
     "role": "Adjunct Professor",
     "location": "San Francisco, California",
-    "description": "Interaction Design studio course on Design for Civic Engagement. Co-teach with fellow Obama alum Scott Thomas."
+    "description": "Interaction Design studio course on Design for Civic Engagement. Co-taught with fellow Obama alum Scott Thomas."
   },
   {
     "year": 2012,
