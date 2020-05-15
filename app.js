@@ -41,6 +41,13 @@ app.get('/project/*', (req, res, next) => {
     res.redirect(301, '/');
 });
 
+// Force secure
+app.use(function(request, response){
+  if(!request.secure){
+    response.redirect("https://" + request.headers.host + request.url);
+  }
+});
+
 // redirect Heroku URL to live domain
 app.use(function forceLiveDomain(req, res, next) {
   var host = req.get('Host');
