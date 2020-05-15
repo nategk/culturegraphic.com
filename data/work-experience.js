@@ -5,7 +5,7 @@ var workExperience = [
     "organization": "Dropbox",
     "role": "Design Director, Smart Workspace",
     "location": "San Francisco, California",
-    "description": "Lead design for Dropbox’s Smart Workspace, keeping teams in sync with Dropbox. Support people & strategy across teams advancing this vision."
+    "description": "Lead design for the Smart Workspace, keeping teams in sync with Dropbox. Support people & strategy across teams advancing this vision."
   },
   {
     "year": "2016",
